@@ -16,7 +16,6 @@
 *.dump
 *.gcov
 /dist/
-.vscode/
 __pycache__/
 *.profraw
 opendbc/can/build/
@@ -27,3 +26,7 @@ cppcheck-addon-ctu-file-list
 opendbc/safety/tests/coverage-out
 
 .mull/
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
